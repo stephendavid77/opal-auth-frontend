@@ -1,0 +1,11 @@
+{
+    "name": "@opal/auth-frontend",
+    "version": "0.1.0",
+    "description": "Authentication UI components for OpalSuite applications",
+    "main": "src/index.js",
+    "private": false,
+    "dependencies": {
+        "react": "^19.1.1",
+        "@opal/global-ui": "0.1.0"
+    }
+}
